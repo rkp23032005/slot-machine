@@ -1,4 +1,4 @@
-\# 🎰 Python Slot Machine
+\# 🎰 Slot Machine
 
 
 
@@ -48,9 +48,9 @@ A fun and simple terminal-based slot machine game written in Python. Spin the re
 
 &nbsp;  ```bash
 
-&nbsp;  git clone https://github.com/your-username/python-slot-machine.git
+&nbsp;  git clone https://github.com/your-username/slot-machine.git
 
-&nbsp;  cd python-slot-machine
+&nbsp;  cd slot-machine
 
 
 
